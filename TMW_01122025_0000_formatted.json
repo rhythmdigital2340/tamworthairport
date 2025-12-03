@@ -1,0 +1,110 @@
+{
+   "flight_set" : {
+      "airport" : "TMW",
+      "date" : "01/12/2025",
+      "flights" : {
+         "flight" : [ {
+            "airline" : "QF",
+            "codeshare_airlines" : [ "EK", "NZ" ],
+            "codeshare_flights" : [ "EK5103", "NZ7001" ],
+            "estimated_time" : "01/12/2025 06:40:00",
+            "flight_number" : "QF2001",
+            "leg" : "D",
+            "locations" : [ "Sydney" ],
+            "operational_date" : "01/12/2025",
+            "scheduled_time" : "01/12/2025 06:30:00",
+            "trip_number" : 0
+         }, {
+            "airline" : "QF",
+            "codeshare_airlines" : [ "EK", "NZ" ],
+            "codeshare_flights" : [ "EK5104", "NZ7002" ],
+            "estimated_time" : "01/12/2025 10:00:00",
+            "flight_number" : "QF2002",
+            "leg" : "A",
+            "locations" : [ "Sydney" ],
+            "operational_date" : "01/12/2025",
+            "scheduled_time" : "01/12/2025 10:00:00",
+            "trip_number" : 0
+         }, {
+            "airline" : "QF",
+            "codeshare_airlines" : [ "EK", "NZ" ],
+            "codeshare_flights" : [ "EK5116", "NZ7003" ],
+            "estimated_time" : "01/12/2025 10:25:00",
+            "flight_number" : "QF2003",
+            "leg" : "D",
+            "locations" : [ "Sydney" ],
+            "operational_date" : "01/12/2025",
+            "scheduled_time" : "01/12/2025 10:25:00",
+            "trip_number" : 0
+         }, {
+            "airline" : "FC",
+            "codeshare_airlines" : [ "VA" ],
+            "codeshare_flights" : [ "VA4027" ],
+            "estimated_time" : "01/12/2025 10:45:00",
+            "flight_number" : "FC663",
+            "leg" : "A",
+            "locations" : [ "Brisbane" ],
+            "operational_date" : "01/12/2025",
+            "scheduled_time" : "01/12/2025 10:45:00",
+            "trip_number" : 0
+         }, {
+            "airline" : "FC",
+            "codeshare_airlines" : [ "VA" ],
+            "codeshare_flights" : [ "VA4028" ],
+            "estimated_time" : "01/12/2025 11:15:00",
+            "flight_number" : "FC664",
+            "leg" : "D",
+            "locations" : [ "Brisbane" ],
+            "operational_date" : "01/12/2025",
+            "scheduled_time" : "01/12/2025 11:15:00",
+            "trip_number" : 0
+         }, {
+            "airline" : "QF",
+            "codeshare_airlines" : [ "EK", "NZ" ],
+            "codeshare_flights" : [ "EK5575", "NZ7543" ],
+            "estimated_time" : "01/12/2025 13:05:00",
+            "flight_number" : "QF2004",
+            "leg" : "A",
+            "locations" : [ "Sydney" ],
+            "operational_date" : "01/12/2025",
+            "scheduled_time" : "01/12/2025 13:05:00",
+            "trip_number" : 0
+         }, {
+            "airline" : "QF",
+            "codeshare_airlines" : [ "EK", "NZ" ],
+            "codeshare_flights" : [ "EK5129", "NZ7552" ],
+            "estimated_time" : "01/12/2025 13:35:00",
+            "flight_number" : "QF2005",
+            "leg" : "D",
+            "locations" : [ "Sydney" ],
+            "operational_date" : "01/12/2025",
+            "scheduled_time" : "01/12/2025 13:35:00",
+            "trip_number" : 0
+         }, {
+            "airline" : "FC",
+            "codeshare_airlines" : [ "VA" ],
+            "codeshare_flights" : [ "VA4035" ],
+            "estimated_time" : "01/12/2025 14:15:00",
+            "flight_number" : "FC667",
+            "leg" : "A",
+            "locations" : [ "Brisbane" ],
+            "operational_date" : "01/12/2025",
+            "scheduled_time" : "01/12/2025 14:15:00",
+            "trip_number" : 0
+         }, {
+            "airline" : "FC",
+            "codeshare_airlines" : [ "VA" ],
+            "codeshare_flights" : [ "VA4039" ],
+            "estimated_time" : "01/12/2025 14:45:00",
+            "flight_number" : "FC669",
+            "leg" : "D",
+            "locations" : [ "Brisbane" ],
+            "operational_date" : "01/12/2025",
+            "scheduled_time" : "01/12/2025 14:45:00",
+            "trip_number" : 0
+         } ]
+      },
+      "time_window" : "30/11/2025 23:00:05 - 01/12/2025 16:00:05",
+      "version" : "1.2.0"
+   }
+}
