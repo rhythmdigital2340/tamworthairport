@@ -1,0 +1,109 @@
+	
+flight_set	
+airport	"TMW"
+date	"03/12/2025"
+flights	
+flight	
+0	
+airline	"QF"
+codeshare_airlines	
+0	"EK"
+1	"MU"
+2	"NZ"
+codeshare_flights	
+0	"EK5141"
+1	"MU4173"
+2	"NZ7006"
+estimated_time	"03/12/2025 16:35:00"
+flight_number	"QF2006"
+gate	"A"
+leg	"A"
+locations	
+0	"Sydney"
+operational_date	"03/12/2025"
+scheduled_time	"03/12/2025 16:25:00"
+trip_number	0
+1	
+airline	"QF"
+codeshare_airlines	
+0	"EK"
+1	"MU"
+2	"NZ"
+codeshare_flights	
+0	"EK5148"
+1	"MU4172"
+2	"NZ7007"
+estimated_time	"03/12/2025 16:50:00"
+flight_number	"QF2007"
+gate	"1"
+leg	"D"
+locations	
+0	"Sydney"
+operational_date	"03/12/2025"
+scheduled_boarding_time	"03/12/2025 16:30:00"
+scheduled_time	"03/12/2025 16:50:00"
+trip_number	0
+2	
+airline	"FC"
+codeshare_airlines	
+0	"VA"
+codeshare_flights	
+0	"VA4025"
+estimated_time	"03/12/2025 19:00:00"
+flight_number	"FC661"
+gate	"A"
+leg	"A"
+locations	
+0	"Brisbane"
+operational_date	"03/12/2025"
+scheduled_time	"03/12/2025 19:00:00"
+trip_number	0
+3	
+airline	"QF"
+codeshare_airlines	
+0	"EK"
+1	"NZ"
+codeshare_flights	
+0	"EK5149"
+1	"NZ7008"
+estimated_time	"03/12/2025 20:10:00"
+flight_number	"QF2008"
+gate	"A"
+leg	"A"
+locations	
+0	"Sydney"
+operational_date	"03/12/2025"
+scheduled_time	"03/12/2025 20:10:00"
+trip_number	0
+4	
+airline	"QF"
+codeshare_airlines	
+0	"EK"
+1	"NZ"
+codeshare_flights	
+0	"EK5103"
+1	"NZ7001"
+estimated_time	"04/12/2025 06:30:00"
+flight_number	"QF2001"
+leg	"D"
+locations	
+0	"Sydney"
+operational_date	"04/12/2025"
+scheduled_time	"04/12/2025 06:30:00"
+trip_number	0
+5	
+airline	"FC"
+codeshare_airlines	
+0	"VA"
+codeshare_flights	
+0	"VA4026"
+estimated_time	"04/12/2025 07:00:00"
+flight_number	"FC662"
+leg	"D"
+locations	
+0	"Brisbane"
+operational_date	"04/12/2025"
+scheduled_time	"04/12/2025 07:00:00"
+trip_number	0
+time_window	"03/12/2025 14:30:05 - 04/12/2025 07:30:05"
+version	"1.2.0"
